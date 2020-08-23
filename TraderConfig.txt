@@ -7,7 +7,7 @@
         //      /* THIS COMMENT WILL CRASH THE SERVER! */                                              //
         //      // THIS COMMENT WORKS!                                                                 //
         //                                                                                             //
-        /////////////////////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////////////////////////////////////////////
 
 <CurrencyName> #tm_ruble							// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
 	<Currency> MoneyRuble1, 	1					// Currency Classname, Currency Money Value
