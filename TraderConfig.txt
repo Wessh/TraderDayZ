@@ -52,7 +52,7 @@
 		TunaCan,				*,		4,		2
 		SpaghettiCan,			*,		5,		2
 		BakedBeansCan,			*,		5,		2
-		TacticalBaconCan,		*,		10,		3		
+		TacticalBaconCan,		*,		15,		3		
 		
 	<Category> Meat
 		ChickenBreastMeat,		S,		2,		1
