@@ -32,7 +32,7 @@
 		Potato,					*,		1,		-1
 		GreenBellPepper,		*,		1,		-1
 		Zucchini,				*,		3,		1
-		Pumpkin,				*,		8,		3
+		Pumpkin,				*,		30,		20
 		AgaricusMushroom,		*,		2,		1
 		AmanitaMushroom,		*,		2,		1
 		LactariusMushroom,		*,		2,		1
@@ -45,14 +45,14 @@
 	<Category> Packaged Food
 		PowderedMilk,			*,		1,		-1
 		BoxCerealCrunchin,		*,		2,		1
-		Rice,					*,		5,		1
+		Rice,					*,		50,		3
 		Marmalade,				*,		3,		1
-		PeachesCan,				*,		4,		2
-		SardinesCan,			*,		4,		2
-		TunaCan,				*,		4,		2
-		SpaghettiCan,			*,		5,		2
-		BakedBeansCan,			*,		5,		2
-		TacticalBaconCan,		*,		15,		3		
+		PeachesCan,				*,		20,		2
+		SardinesCan,			*,		10,		2
+		TunaCan,				*,		15,		2
+		SpaghettiCan,			*,		10,		2
+		BakedBeansCan,			*,		10,		2
+		TacticalBaconCan,		*,		50,		3		
 		
 	<Category> Meat
 		ChickenBreastMeat,		S,		2,		1
