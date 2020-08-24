@@ -55,17 +55,17 @@
 		TacticalBaconCan,		*,		50,		3		
 		
 	<Category> Meat
-		ChickenBreastMeat,		S,		2,		1
-		GoatSteakMeat,			S,		3,		1
-		SheepSteakMeat,			S,		3,		1
-		PigSteakMeat,			S,		4,		2
-		BoarSteakMeat,			S,		4,		2
-		WolfSteakMeat,			S,		4,		2
-		DeerSteakMeat,			S,		5,		2
-		CowSteakMeat,			S,		5,		2	
-		Sardines,				S,		7,		4
-		Carp,					S,		10,		5
-		Mackerel,				S,		10,		5
+		ChickenBreastMeat,		S,		-1,		50
+		GoatSteakMeat,			S,		-1,		100
+		SheepSteakMeat,			S,		-1,		100
+		PigSteakMeat,			S,		-1,		150
+		BoarSteakMeat,			S,		-1,		150
+		WolfSteakMeat,			S,		-1,		500
+		DeerSteakMeat,			S,		-1,		250
+		CowSteakMeat,			S,		-1,		200	
+		Sardines,				S,		-1,		50
+		Carp,					S,		-1,		50
+		Mackerel,				S,		-1,		50
 		
 	<Category> Animal Parts
 		Bone,					*,		2,		1
