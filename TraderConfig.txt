@@ -146,13 +146,13 @@
 		//FishingRod,			*,		60,		25
 		
 	<Category> Tools (big)
-		LugWrench,				*,		4,		1
-		Crowbar,				*,		5,		3
-		Shovel,					*,		6,		3
-		Pickaxe,				*,		10,		4
-		SledgeHammer,			*,		12,		6
-		WoodAxe,				*,		20,		8
-		FirefighterAxe,			*,		30,		12
+		LugWrench,				*,		50,		1
+		Crowbar,				*,		150,		3
+		Shovel,					*,		1000,		3
+		Pickaxe,				*,		500,		4
+		SledgeHammer,			*,		500,		6
+		WoodAxe,				*,		1000,		8
+		FirefighterAxe,			*,		1000,		12
 		
 	<Category> Electronics
 		Battery9V,				*,		8,		3
