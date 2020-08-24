@@ -172,7 +172,7 @@
 		Chemlight_White,		*,		2,		1
 		Chemlight_Yellow,		*,		2,		1
 		Roadflare,				*,		4,		2
-		Matchbox,				*,		6,		3
+		Matchbox,				*,		20,		3
 		Flashlight,				*,		15,		5
 		PortableGasLamp,		*,		25,		10
 		PortableGasStove,		*,		30,		15
