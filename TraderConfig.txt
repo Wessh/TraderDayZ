@@ -74,13 +74,13 @@
 		SmallGuts,				*,		-1,		-1
 		
 	<Category> Drinks
-		SodaCan_Cola, 			*,		2, 		1
-		SodaCan_Kvass, 			*,		2, 		1
-		SodaCan_Pipsi, 			*,		2, 		1
-		SodaCan_Spite, 			*,		2, 		1
-		WaterBottle,			*,		5,		2
-		Canteen,				*,		8,		4
-		Vodka,					*,		12,		8
+		SodaCan_Cola, 			*,		15, 		1
+		SodaCan_Kvass, 			*,		15, 		1
+		SodaCan_Pipsi, 			*,		15, 		1
+		SodaCan_Spite, 			*,		15, 		1
+		WaterBottle,			*,		50,		2
+		Canteen,				*,		50,		4
+		Vodka,					*,		-1,		150
 		
 	<Category> Medical Supplies
 		//Rag,					1,		1,		-1
