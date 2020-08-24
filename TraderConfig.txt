@@ -54,24 +54,6 @@
 		BakedBeansCan,			*,		10,		2
 		TacticalBaconCan,		*,		50,		3		
 		
-	<Category> Meat
-		ChickenBreastMeat,		S,		-1,		50
-		GoatSteakMeat,			S,		-1,		100
-		SheepSteakMeat,			S,		-1,		100
-		PigSteakMeat,			S,		-1,		150
-		BoarSteakMeat,			S,		-1,		150
-		WolfSteakMeat,			S,		-1,		500
-		DeerSteakMeat,			S,		-1,		250
-		CowSteakMeat,			S,		-1,		200	
-		Sardines,				S,		-1,		50
-		Carp,					S,		-1,		50
-		Mackerel,				S,		-1,		50
-		
-	<Category> Animal Parts
-		Bone,					*,		-1,		1
-		Lard,					*,		-1,		150
-		Guts,					*,		-1,		-1
-		SmallGuts,				*,		-1,		-1
 		
 	<Category> Drinks
 		SodaCan_Cola, 			*,		15, 	1
@@ -80,8 +62,7 @@
 		SodaCan_Spite, 			*,		15, 	1
 		WaterBottle,			*,		50,		2
 		Canteen,				*,		50,		4
-		//Vodka,				*,		-1,		150
-		
+			
 	<Category> Medical Supplies
 		//Rag,					1,		1,		-1
 		BandageDressing,		2,		10,		1
@@ -119,6 +100,29 @@
 	<Category> Drugs
 		Vodka,					*,		-1,		150
 
+
+<Trader> Caçador
+	<Category> Animal Parts
+		Bone,					*,		-1,		1
+		Lard,					*,		-1,		150
+		Guts,					*,		-1,		-1
+		SmallGuts,				*,		-1,		-1
+
+	<Category> Meat
+		ChickenBreastMeat,		S,		-1,		50
+		GoatSteakMeat,			S,		-1,		100
+		SheepSteakMeat,			S,		-1,		100
+		PigSteakMeat,			S,		-1,		150
+		BoarSteakMeat,			S,		-1,		150
+		WolfSteakMeat,			S,		-1,		500
+		DeerSteakMeat,			S,		-1,		250
+		CowSteakMeat,			S,		-1,		200
+		Sardines,				S,		-1,		50
+		Carp,					S,		-1,		50
+		Mackerel,				S,		-1,		50	
+
+	<Category> Tools	
+		BearTrap,				*,		50,		30
 
 <Trader> Misc Trader
 	<Category> Tools (small)
@@ -182,11 +186,10 @@
 		Spotlight,				*,		600,	200
 	
 	<Category> Cooking & Hunting Supplies
-		PurificationTablets,	*,		5,		2
-		Pot,					M,		25,		10
-		Tripod,					*,		35,		15
-		BearTrap,				*,		50,		30
-	
+		PurificationTablets,	*,		50,		2
+		Pot,					M,		100,	10
+		Tripod,					*,		50,		15
+			
 	<Category> Hardware Supplies
 		Paper,					*,		1,		0
 		Pen_Blue,				*,		2,		1
