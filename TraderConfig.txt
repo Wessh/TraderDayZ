@@ -47,10 +47,10 @@
 		//PleurotusMushroom,		*,		2,		1
 	
 	<Category> Packaged Food
-		PowderedMilk,			*,		1,		-1
-		BoxCerealCrunchin,		*,		2,		1
+		PowderedMilk,			*,		10,		-1
+		BoxCerealCrunchin,		*,		50,		1
 		Rice,					*,		50,		3
-		Marmalade,				*,		3,		1
+		Marmalade,				*,		50,		1
 		PeachesCan,				*,		20,		2
 		SardinesCan,			*,		10,		2
 		TunaCan,				*,		15,		2
@@ -84,39 +84,39 @@
 		SodaCan_Spite, 			*,		15, 		1
 		WaterBottle,			*,		50,		2
 		Canteen,				*,		50,		4
-		Vodka,					*,		-1,		150
+		//Vodka,				*,		-1,		150
 		
 	<Category> Medical Supplies
 		//Rag,					1,		1,		-1
-		BandageDressing,		2,		3,		1
-		BloodTestKit,			*,		5,		2
+		BandageDressing,		2,		10,		1
+		BloodTestKit,			*,		50,		2
 		//InjectionVial,		*,		5, 		2
-		Thermometer,			*,		5,		2
-		DisinfectantSpray,		*,		8,		5
+		//Thermometer,			*,		5,		2
+		DisinfectantSpray,		*,		10,		5
 		//Syringe,				*,		8, 		5
 		Heatpack,				*,		10,		5
-		StartKitIV,				*,		10,		6
-		SalineBag,				*,		15,		8
-		BloodBagEmpty,			*,		18,		10
-		FirstAidKit,			*,		20,		10
+		StartKitIV,				*,		100,		6
+		SalineBag,				*,		150,		8
+		BloodBagEmpty,			*,		150,		10
+		FirstAidKit,			*,		500,		10
 		//Defibrillator,		*,		35, 	20
 		
 	<Category> Medications
-		CharcoalTablets,		*,		2,		1
-		DisinfectantAlcohol,	*,		4,		2
-		VitaminBottle,			*,		6,		4
-		TetracyclineAntibiotics,*,		8,		5
-		PainkillerTablets,		*,		10,		6
-		Epinephrine,			*,		20,		10
-		Morphine,				*,		25,		15	
+		CharcoalTablets,		*,		50,		1
+		DisinfectantAlcohol,	*,		50,		2
+		VitaminBottle,			*,		80,		4
+		TetracyclineAntibiotics,*,		200,		5
+		PainkillerTablets,		*,		250,		6
+		Epinephrine,			*,		200,		10
+		Morphine,				*,		200,		15	
 		
 	<Category> Money Exchange
-		MoneyRuble1,			1,		1,		-1
-		MoneyRuble5,			1,		5,		-1
-		MoneyRuble10,			1,		10,		-1
-		MoneyRuble25,			1,		25,		-1
-		MoneyRuble50,			1,		50,		-1
-		MoneyRuble100,			1,		100,	-1
+		//MoneyRuble1,			1,		1,		-1
+		//MoneyRuble5,			1,		5,		-1
+		//MoneyRuble10,			1,		10,		-1
+		//MoneyRuble25,			1,		25,		-1
+		//MoneyRuble50,			1,		50,		-1
+		//MoneyRuble100,		1,		100,	-1
 
 
 <Trader> Misc Trader
