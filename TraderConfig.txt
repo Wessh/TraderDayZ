@@ -18,6 +18,10 @@
 	<Currency> MoneyRuble100, 	100
 
 
+<Trader> Traficante
+	<Category> Drugs
+		Vodka,					*,		-1,		150
+
 <Trader> Consume Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 	<Category> Vegetables							// Category Name
 		CaninaBerry,			*,		1,		-1	// Item Classname, Quantity, Buyvalue, Sellvalue
