@@ -123,6 +123,9 @@
 
 	<Category> Tools	
 		BearTrap,				*,		50,		30
+	
+	<Category> Peles
+		TannedLeather,			*,		-1,		250
 
 <Trader> Misc Trader
 	<Category> Tools (small)
@@ -191,33 +194,32 @@
 		Tripod,					*,		50,		15
 			
 	<Category> Hardware Supplies
-		Paper,					*,		1,		0
-		Pen_Blue,				*,		2,		1
-		Rope,					*,		4,		1
-		TannedLeather,			*,		4,		1
-		AntiPestsSpray,			*,		8,		4
-		MetalWire,				*,		15,		6
+		Paper,					*,		10,		5
+		//Pen_Blue,				*,		2,		1
+		Rope,					*,		100,	1
+		AntiPestsSpray,			*,		50,		25
+		MetalWire,				*,		500,	6
 		EpoxyPutty,				*,		15,		6
-		DuctTape,				*,		20,		8
+		DuctTape,				*,		150,	8
 		XmasLights,				*,		25,		10
 		HandcuffKeys,			*,		35,		12
 		Handcuffs,				*,		50,		15
-		Netting,				1,		50,		10
-		BurlapSack,				*,		50,		10
-		WoodenPlank,			10,		50,		15
-		MetalPlate,				*,		60,		18
+		Netting,				1,		150,	50
+		BurlapSack,				*,		200,	50
+		WoodenPlank,			10,		1000,	15
+		MetalPlate,				*,		1000,	18
 		SmallProtectorCase,		*,		70,		30
-		AmmoBox,				*,		80,		35
+		AmmoBox,				*,		150,	75
 		SmallGasCanister,		*,		80,		35
 		MediumGasCanister,		*,		100,	40
 		LargeGasCanister,		*,		200,	70
 		CanisterGasoline,		*,		300,	80
-		NailBox,				*,		5000,	120
-		BarbedWire,				*,		450,	200
-		Camonet,				*,		600,	250
+		NailBox,				*,		5000,	250
+		BarbedWire,				*,		800,	200
+		Camonet,				*,		600,	230
 		HescoBox,				*,		650,	250
-		CombinationLock,		*,		700,	300
-		CombinationLock4,		*,		900,	400
+		CombinationLock,		*,		1500,	300
+		CombinationLock4,		*,		1500,	400
 		BarrelHoles_Blue,		*,		800,	300
 		BarrelHoles_Green,		*,		800,	300
 		BarrelHoles_Red,		*,		800,	300
@@ -228,9 +230,9 @@
 		Barrel_Yellow,			M,		1500,	350
 		SeaChest,				*,		2000,	400
 		PowerGenerator,			*,		3000,	1000
-		MediumTent,				*,		3000,	500		
-		CarTent,				*,		5000,	700
-		LargeTent,				*,		7000,	1200
+		MediumTent,				*,		5000,	500		
+		CarTent,				*,		15000,	700
+		LargeTent,				*,		10000,	1200
 	
 	<Category> Seeds & Lime
 		TomatoSeedsPack,		*,		4, 		1
