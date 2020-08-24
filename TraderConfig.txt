@@ -121,29 +121,29 @@
 
 <Trader> Misc Trader
 	<Category> Tools (small)
-		Screwdriver,			*,		3,		1
-		Wrench,					*,		3,		1
-		SewingKit,				*,		4, 		1
-		Pliers,					*,		4, 		1
-		LeatherSewingKit,		*,		5, 		2
-		Whetstone,				*,		5,		2
-		Hammer,					*,		7,		3
-		Hacksaw,				*,		7,		3
-		HandSaw,				*,		7,		3
-		WeaponCleaningKit,		*,		8, 		3
-		KitchenKnife,			*,		8,		4
-		SteakKnife,				*,		9,		4
-		HuntingKnife,			*,		9,		4
-		CanOpener,				*,		10,		4
-		Compass,				*,		10,		4
-		OrienteeringCompass,	*,		10,		4
-		Hatchet,				*,		10,		4
-		CombatKnife,			*,		10,		5
-		Machete,				*,		12,		6	
-		ChernarusMap,			*,		15,		5
-		Lockpick,				*,		20,		10
-		Binoculars,				*,		30,		15		
-		FishingRod,				*,		60,		25
+		Screwdriver,			*,		100,	1
+		Wrench,					*,		50,		1
+		SewingKit,				*,		20, 	1
+		//Pliers,				*,		4, 		1
+		LeatherSewingKit,		*,		50, 	2
+		Whetstone,				*,		100,	2
+		//Hammer,				*,		7,		3
+		Hacksaw,				*,		1000,	3
+		HandSaw,				*,		1000,	3
+		WeaponCleaningKit,		*,		50, 	3
+		KitchenKnife,			*,		100,	4
+		SteakKnife,				*,		50,		4
+		HuntingKnife,			*,		150,	4
+		CanOpener,				*,		50,		4
+		Compass,				*,		20,		4
+		OrienteeringCompass,	*,		20,		4
+		//Hatchet,				*,		10,		4
+		CombatKnife,			*,		200,	5
+		Machete,				*,		300,	6	
+		//ChernarusMap,			*,		50,		5
+		Lockpick,				*,		100,	10
+		//Binoculars,			*,		30,		15		
+		//FishingRod,			*,		60,		25
 		
 	<Category> Tools (big)
 		LugWrench,				*,		4,		1
@@ -208,7 +208,7 @@
 		MediumGasCanister,		*,		100,	40
 		LargeGasCanister,		*,		200,	70
 		CanisterGasoline,		*,		300,	80
-		NailBox,				*,		300,	120
+		NailBox,				*,		5000,	120
 		BarbedWire,				*,		450,	200
 		Camonet,				*,		600,	250
 		HescoBox,				*,		650,	250
