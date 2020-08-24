@@ -68,10 +68,10 @@
 		Mackerel,				S,		-1,		50
 		
 	<Category> Animal Parts
-		Bone,					*,		2,		1
-		Lard,					*,		2,		1
-		Guts,					*,		2,		1
-		SmallGuts,				*,		2,		1
+		Bone,					*,		-1,		1
+		Lard,					*,		-1,		150
+		Guts,					*,		-1,		-1
+		SmallGuts,				*,		-1,		-1
 		
 	<Category> Drinks
 		SodaCan_Cola, 			*,		2, 		1
