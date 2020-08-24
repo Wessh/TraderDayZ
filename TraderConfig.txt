@@ -155,15 +155,15 @@
 		FirefighterAxe,			*,		1000,		12
 		
 	<Category> Electronics
-		Battery9V,				*,		8,		3
-		PersonalRadio,			*,		10,		5
-		Megaphone,				*,		30,		15
-		ElectronicRepairKit,	*,		35,		17
-		CableReel,				*,		40,		20
-		BatteryCharger,			*,		40,		20
+		Battery9V,				*,		100,	3
+		PersonalRadio,			*,		50,		5
+		Megaphone,				*,		30000,	5000
+		ElectronicRepairKit,	*,		150,	17
+		CableReel,				*,		150,	20
+		BatteryCharger,			*,		100,	20
 		BaseRadio,				*,		50,		30
-		Rangefinder,			*,		60,		35
-		NVGoggles,				*,		400,	220
+		Rangefinder,			*,		100,	35
+		NVGoggles,				*,		2000,	220
 	
 	<Category> Fire & Lights
 		Chemlight_Blue,			*,		2,		1
