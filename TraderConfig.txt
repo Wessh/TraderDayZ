@@ -146,7 +146,6 @@
 		Compass,				*,		20,		4
 		OrienteeringCompass,	*,		20,		4
 		//Hatchet,				*,		10,		4
-		CombatKnife,			*,		200,	5
 		Machete,				*,		300,	6	
 		//ChernarusMap,			*,		50,		5
 		Lockpick,				*,		100,	10
@@ -353,6 +352,7 @@
 		CattleProd,				W,		25,		15
 		BaseballBat,			W,		35,		17
 		NailedBaseballBat,		W,		45,		20
+		CombatKnife,			*,		200,	5
 		
 	<Category> Sidearms
 		MakarovIJ70,			W,		100,	50
